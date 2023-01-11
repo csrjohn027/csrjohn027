@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hello, this is Richard Johnson. 👋
 
+I am a Senior of *Old Dominion University* majoring in **Game Studies and Design** and minoring in **Computer Science**. 
+I'm working to better understand the usage of Unity to construct game products of any type, preferably *Role Play Games*.
 <!--
 **csrjohn027/csrjohn027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
